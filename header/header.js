@@ -2,6 +2,7 @@ let hola = document.querySelector(".header");
 
 hola.innerHTML = `
  
+
 <div class="Seccciones">
     <h1>Génesis Luch@</h1>
     <div class="linkrp">

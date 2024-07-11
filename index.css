@@ -3,6 +3,7 @@ body {
     margin: auto;
 
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
-    border: 1px solid black;
+    grid-template-rows: 6rem 1fr 1fr;
+
+    row-gap: 1rem;
 }
