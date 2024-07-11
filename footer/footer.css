@@ -1,0 +1,28 @@
+.Secciiones h1{
+    text-align: center;
+    position: absolute;
+    margin-left: 6rem;
+    margin-top: 1rem;
+    font-size: 1.8rem;
+}
+
+.footer {
+    border: 1px solid black;
+    height: 4rem;
+}
+
+/* .ojo1 {
+    background-color: aqua;
+}
+
+.ojo2 {
+    background-color: aquamarine;
+}
+
+.ojo3 {
+    background-color: blueviolet;
+}
+
+.ojo4 {
+    background-color: brown;
+} */
